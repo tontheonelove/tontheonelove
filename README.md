@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 
 
-<p>Welcome to my github </br> I'm Ton, Developer from <img src="https://image.flaticon.com/icons/png/512/197/197452.png" width="13"/> <b>Korat, Thailand</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/197/197452.png" width="13"/> <b>Thailand</b>. </p>
+<p>Welcome to my github </br> I'm Ton, Developer from <img src="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Flag_of_Thailand.svg" width="13"/> <b>Korat, Thailand</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/197/197452.png" width="13"/> <b>Thailand</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
